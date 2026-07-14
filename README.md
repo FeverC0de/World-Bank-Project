@@ -1,4 +1,4 @@
-# WorldBank IA
+# WorldBank Data Visualizer
 
 Desktop application that visualizes World Bank economic indicators (GDP, population, inflation, exports, health metrics) with JFreeChart charts and auto-detects your country via IP geolocation.
 

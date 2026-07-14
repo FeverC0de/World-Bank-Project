@@ -1,0 +1,15 @@
+# Build
+/build/
+/target/
+*.class
+*.jar
+
+# IDE
+.idea/
+*.iml
+.nbattrs
+/nbproject/private/
+
+# OS
+.DS_Store
+Thumbs.db
